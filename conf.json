@@ -1,0 +1,12 @@
+{
+    "host_local":"ws://localhost:8888" ,
+    "host":"wss://vash_address" ,
+    "mount":"/api",
+    "token": "",
+
+    "token_local": "",
+    "token_server": "",
+
+    "path":"/dev/usb/lp2"
+}
+

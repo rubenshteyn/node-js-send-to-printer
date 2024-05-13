@@ -1,0 +1,19 @@
+{
+  "name": "dannie-prod-raw-printer-agent",
+  "version": "0.0.1",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.krye.me:dannie-prod/dannie-prod-raw-printer-agent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dannie-prod/dannie-prod-agent": "^0.0.3",
+    "pdfkit-table": "^0.1.99",
+    "qrcode": "^1.5.3"
+  }
+}
